@@ -1,4 +1,4 @@
-# GitDemo
+# git-demo
 Herr Prof Bauer sagte, wir sollen ein neues repo machen! so we did..
 ## 
 use github to create a new file, then *commit* 
